@@ -1,6 +1,6 @@
 # expenses
 
-A new Flutter project.
+Applicacion de Flutter para Gastos Semanales con Guardado Local. 
 
 ## Getting Started
 
